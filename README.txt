@@ -1,0 +1,1 @@
+This repository is being used as practice for the "Mixed Messages" project on Codecademy.
